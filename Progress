@@ -1,0 +1,22 @@
+First Phase(Real Time face mask detection) of discussion
+Drawbacks:
+1.The awareness to wear the mask was not given.
+2.Only able to give the count of people who are not wearing the mask
+
+Second Phase of discussion
+Planned to add something more to face mask detection like an app to store details of customers.
+After analysing the changing situations of Covid in our country ,we came into the conclusion that MASK is the most important thing.
+So we sticked to the face mask detection majorly in organisations like schools and colleges
+
+Third phase of discussion
+Added an alert system (app) for students .
+whenever a person in that particular organisation is not wearing the mask they will get the notification and admin can see the count of people not wearing the mask.
+Technical aspects:
+OpenCV
+TENSORFLOW
+FLUTTER
+FIREBASE
+For UI development Figma
+
+
+
